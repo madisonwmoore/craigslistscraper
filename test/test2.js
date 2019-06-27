@@ -1,5 +1,5 @@
 var scraper=require("../index");
 
-scraper.getLocation("https://orlando.craigslist.org/bpo/d/sorrento-reduced-windsheild-small/6908136251.html").then(function(results){
+scraper.getLocation("https://orlando.craigslist.org/gms/d/clermont-garage-sale-sunday-only/6921257812.html").then(function(results){
     console.log(results);
 })
